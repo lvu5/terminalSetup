@@ -1,4 +1,4 @@
-Install Oh My Zsh 
+Install Oh My Zsh <\br >
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)" `
 Install PowerLevel10k 
 `git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k`
